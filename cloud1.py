@@ -10,3 +10,5 @@ print4
 cloud4
 print5
 cloud5
+print6
+cloud6
